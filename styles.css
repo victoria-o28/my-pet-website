@@ -7,6 +7,12 @@ h1{
     font-style: bold;
     text-align: center;
 }
+main{
+    width: 800px;
+    float: right;
+    background-image: url(https://thumbs.dreamstime.com/b/cat-touching-screen-tablet-cute-playing-piano-app-56566516.jpg) 
+    
+}
 footer{display: flex; 
     justify-content: space-between;
     background-color: black;
