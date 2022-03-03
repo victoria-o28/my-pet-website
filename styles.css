@@ -3,6 +3,10 @@ img {
     height: 8cm; 
     float: center
 }
+h1{
+    font-style: bold;
+    text-align: center;
+}
 footer{display: flex; 
     justify-content: space-between;
 }
